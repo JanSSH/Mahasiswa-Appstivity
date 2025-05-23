@@ -1,10 +1,42 @@
-# Pedoman File
-== Custom Widget
+==== /Assets/Images
+|
+|--- file.png/jpg/dll
 
-berisi code jobdesk pribadi sesuai bagiannya\
-tidak memiliki aturan jadi terserah mau dibuat bagaimana sesuai jobdesk masing-masing
 
-== Tampilan Screen
+==== /MainScreen
+|
+|--- LoginRegist
+|	|
+|	|--- Loginscreen()
+|	|--- Registrasiscreen()
+|
+|--- Dosen
+|	|
+|	|--- DashboardDosen()
+|
+|--- Mahasiswa
+|	|
+|	|--- DashboardMahasiswa()
+|	|--- ProfilesMahasiswa()
+|	|--- SertifikatStorage()
+|
+|--- ScreenSecond
+|	|
+|	|--- TentangAplikasi()
+|	 
+|--- FungsiOperational
+	|
+	|--- TaskModel()
 
-berisi code tampilan dan beraturan\
-// misal seperti variabel dan nama harus sesuai agar memudahkan anggota lainnya
+
+==== /CustomWidget
+|
+|--- Splashscreen()
+|--- CalendarCustom()
+|--- NavBar()
+|--- ProfilesBar()
+
+
+==== /BackendFB	*Integrasi Database
+|
+|--- *...
