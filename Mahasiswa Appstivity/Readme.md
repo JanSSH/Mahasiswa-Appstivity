@@ -1,6 +1,6 @@
-==== /Assets/Images
-|
-|--- file.png/jpg/dll
+==== /Assets/Images\
+|\
+|--- file.png/jpg/dll\
 
 
 ==== /MainScreen
