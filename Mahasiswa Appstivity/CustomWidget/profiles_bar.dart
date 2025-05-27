@@ -14,7 +14,6 @@ class _ProfilesBarState extends State<ProfilesBar> {
       appBar: AppBar(),
       body: Column(
         children: [
-          // Container Profil + Username + Tombol Sertifikat
           Center(
             child: Container(
               width: double.infinity,
