@@ -10,6 +10,7 @@ class ProfilesBar extends StatefulWidget {
 class _ProfilesBarState extends State<ProfilesBar> {
   @override
   Widget build(BuildContext context) {
+    // Custom Widget jangan pake scaffold tapi langsung aja elemen yang mau dipake/dibuat
     return Scaffold(
       appBar: AppBar(),
       body: Column(
