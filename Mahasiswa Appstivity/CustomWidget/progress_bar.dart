@@ -12,10 +12,12 @@ class _ProgressBarState extends State<ProgressBar> {
 
   @override
   Widget build(BuildContext context) {
+    // Jangan pake scaffold kalo buat custom widget karena error saat mau diambil ke main elemen
     return Scaffold(
       appBar: AppBar(),
       body: Column(
         children: [
+          // Padding gunanya buat apa?
           Padding(
             padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 4),
             child: Column(
@@ -28,6 +30,7 @@ class _ProgressBarState extends State<ProgressBar> {
                   ),
                 ),
                 const SizedBox(height: 8),
+                //Progress Bar pake plugin yang udah dishare di Discord ygy
                 ClipRRect(
                   borderRadius: BorderRadius.circular(8),
                   child: LinearProgressIndicator(
