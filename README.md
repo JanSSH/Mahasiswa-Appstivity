@@ -49,6 +49,11 @@ Visualisasi progress menggunakan Pie Chart dan Progress Bar.
 
 ### ℹ️ Lainnya
 
+**Tentang Kami**  
+<img src="https://github.com/user-attachments/assets/236b8a12-8088-4290-9104-05cbd8c57c12" width="250" />
+
+---
+
 ## 👥 Tentang Kami
 
 Mahasiswa Appstivity merupakan suatu project yang dibuat untuk memenuhi tugas perkuliahan yang mungkin dapat diimplementasikan menjadi fasilitas kampus yang berguna dalam perkuliahan.
