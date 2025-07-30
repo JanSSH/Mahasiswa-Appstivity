@@ -49,4 +49,13 @@ Visualisasi progress menggunakan Pie Chart dan Progress Bar.
 
 ### ℹ️ Lainnya
 
-**Tentang Kami**  
+## 👥 Tentang Kami
+
+Mahasiswa Appstivity merupakan suatu project yang dibuat untuk memenuhi tugas perkuliahan yang mungkin dapat diimplementasikan menjadi fasilitas kampus yang berguna dalam perkuliahan.
+
+### 👨‍💻 Contributor:
+- Januar Dwi Putra
+- Arif Akbarudin
+- Nurdin Mukti Widodo
+- Muhammad Syafi'i Maarif
+- Irsyad Hasan
